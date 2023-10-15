@@ -66,15 +66,14 @@ export default {
 
 <style>
 .wrapper {
-  width: 200px;
+  width: 270px;
 }
 .wrapper-container-p {
   display: flex;
   align-items: center;
   max-height: 20px;
 }
-.wrapper-container {
-}
+
 .p-text {
   width: 30px;
 }
